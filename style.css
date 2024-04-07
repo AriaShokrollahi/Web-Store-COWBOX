@@ -1,0 +1,777 @@
+.krona-one-regular {
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.desktop {
+  background-color: #010101;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #010101;
+  overflow: hidden;
+  width: 1440px;
+  height: 3984px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1616px;
+  height: 1735px;
+  top: 0;
+  left: -174px;
+}
+
+.desktop .background {
+  position: absolute;
+  width: 1616px;
+  height: 1339px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 894px;
+  height: 1339px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 720px;
+  height: 1024px;
+  top: 0;
+  left: 174px;
+  background-color: #000000;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  top: 83px;
+  left: 250px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 566px;
+  height: 566px;
+  top: 605px;
+  left: 56px;
+  background-color: #a200db;
+  border-radius: 283px;
+  filter: blur(500px);
+}
+
+.desktop .alonso-talbert {
+  position: absolute;
+  width: 578px;
+  height: 802px;
+  top: 537px;
+  left: 0;
+}
+
+.desktop .layer {
+  position: absolute;
+  width: 310px;
+  height: 251px;
+  top: 275px;
+  left: 174px;
+}
+
+.desktop .josh-nuttall {
+  position: absolute;
+  width: 720px;
+  height: 500px;
+  top: 524px;
+  left: 894px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 630px;
+  height: 443px;
+  top: 57px;
+  left: 0;
+}
+
+.desktop .nav {
+  position: absolute;
+  width: 551px;
+  height: 30px;
+  top: 87px;
+  left: 1031px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 3px;
+  left: 122px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .service-support {
+  position: absolute;
+  top: 3px;
+  left: 251px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .sun {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  top: 0;
+  left: 515px;
+}
+
+.desktop .discribe {
+  position: absolute;
+  width: 511px;
+  height: 223px;
+  top: 386px;
+  left: 350px;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 450px;
+  height: 126px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  width: 289px;
+  top: 0;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  width: 182px;
+  top: 83px;
+  left: 268px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #a200db;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .shift-your-ride-not {
+  position: absolute;
+  top: 151px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .span {
+  font-weight: 800;
+  color: #ffffff;
+}
+
+.desktop .text-wrapper-6 {
+  font-family: "Krona One", sans-serif;
+  font-weight: 300;
+  color: #bbbbbb;
+}
+
+.desktop .book {
+  position: absolute;
+  width: 360px;
+  height: 60px;
+  top: 636px;
+  left: 350px;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  top: 100px;
+  left: 20px;
+  background-color: #a200db;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 20px;
+  left: 22px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 134px;
+  top: 120px;
+  left: 230px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .BYLL {
+  position: absolute;
+  width: 1243px;
+  height: 462px;
+  top: 1273px;
+  left: 285px;
+}
+
+.desktop .chart {
+  position: absolute;
+  width: 350px;
+  height: 350px;
+  top: 106px;
+  left: 889px;
+  background-color: #2a265f;
+  border-radius: 175px;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 330px;
+  height: 330px;
+  top: 10px;
+  left: 10px;
+  background-color: #003737;
+  border-radius: 165px;
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 310px;
+  height: 310px;
+  top: 10px;
+  left: 10px;
+  background-color: #8f4700;
+  border-radius: 155px;
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 290px;
+  height: 290px;
+  top: 20px;
+  left: 20px;
+  background-color: #c58c00;
+  border-radius: 145px;
+}
+
+.desktop .ellipse-4 {
+  position: absolute;
+  width: 270px;
+  height: 270px;
+  top: 30px;
+  left: 30px;
+  background-color: #020202;
+  border-radius: 135px;
+}
+
+.desktop .cyclist {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 115px;
+  left: 115px;
+}
+
+.desktop .riding-a-bicycle-is {
+  position: absolute;
+  width: 813px;
+  top: 158px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .boosts-your-fitness {
+  position: absolute;
+  width: 453px;
+  top: 0;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-9 {
+  color: #ffffff;
+}
+
+.desktop .text-wrapper-10 {
+  color: #a200db;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 1285px;
+  height: 346px;
+  top: 1905px;
+  left: 77px;
+}
+
+.desktop .about-cycling {
+  position: absolute;
+  width: 1225px;
+  height: 1028px;
+  top: 2402px;
+  left: 115px;
+}
+
+.desktop .physical-fitness {
+  position: absolute;
+  width: 1141px;
+  top: 0;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .weight-management {
+  position: absolute;
+  width: 1039px;
+  top: 181px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .joint-health-unlike {
+  position: absolute;
+  width: 1215px;
+  top: 362px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .increased-energy {
+  position: absolute;
+  width: 1151px;
+  top: 581px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .cost-effectiveness {
+  position: absolute;
+  width: 1182px;
+  top: 838px;
+  left: 0;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 30px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .footer {
+  position: absolute;
+  width: 1680px;
+  height: 604px;
+  top: 3519px;
+  left: -125px;
+  background-color: transparent;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 720px;
+  height: 615px;
+  top: -150px;
+  left: 845px;
+}
+
+.desktop .vector {
+  position: absolute;
+  width: 594px;
+  height: 615px;
+  top: 0;
+  left: 126px;
+}
+
+.desktop .SM {
+  position: absolute;
+  width: 270px;
+  height: 276px;
+  top: 181px;
+  left: 406px;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Krona One", sans-serif;;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  top: 77px;
+  left: 44px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-13 {
+  top: 122px;
+  position: absolute;
+  left: 44px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-14 {
+  top: 167px;
+  position: absolute;
+  left: 44px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-15 {
+  top: 212px;
+  position: absolute;
+  left: 44px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-16 {
+  top: 257px;
+  position: absolute;
+  left: 44px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .CO {
+  position: absolute;
+  width: 162px;
+  height: 264px;
+  top: 181px;
+  left: 0;
+}
+
+.desktop .text-wrapper-17 {
+  top: 81px;
+  position: absolute;
+  left: 14px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-18 {
+  top: 122px;
+  position: absolute;
+  left: 14px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-19 {
+  top: 163px;
+  position: absolute;
+  left: 14px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-20 {
+  top: 204px;
+  position: absolute;
+  left: 14px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-21 {
+  top: 245px;
+  position: absolute;
+  left: 14px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .AB {
+  position: absolute;
+  width: 130px;
+  height: 260px;
+  top: 181px;
+  left: 219px;
+}
+
+.desktop .text-wrapper-22 {
+  position: absolute;
+  top: 77px;
+  left: 23px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-23 {
+  top: 118px;
+  position: absolute;
+  left: 23px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-24 {
+  top: 159px;
+  position: absolute;
+  left: 23px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-25 {
+  top: 200px;
+  position: absolute;
+  left: 23px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-26 {
+  top: 241px;
+  position: absolute;
+  left: 23px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 565px;
+  height: 575px;
+  top: -110px;
+  left: 125px;
+  background-image: url(./img/vector2.svg);
+  background-size: 100% 100%;
+}
+
+.desktop .logo {
+  position: absolute;
+  width: 416px;
+  height: 100px;
+  top: 110px;
+  left: 76px;
+}
+
+.desktop .cyclist-2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .text-wrapper-27 {
+  position: absolute;
+  width: 296px;
+  top: 26px;
+  left: 118px;
+  background: linear-gradient(
+    180deg,
+    rgb(255, 255, 255) 0%,
+    rgb(239.61, 224.42, 244.95) 22%,
+    rgb(225.97, 197.31, 236.04) 41.5%,
+    rgb(203.24, 152.14, 221.19) 74%,
+    rgb(189.51, 111.99, 216.75) 100%
+  );
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: transparent;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  width: 440px;
+  top: 232px;
+  left: 76px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-29 {
+  position: absolute;
+  top: 525px;
+  left: 76px;
+  font-family: "Krona One", sans-serif;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 15px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
